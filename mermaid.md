@@ -15,7 +15,7 @@ mindmap
       네트워크 (VPC, Subnet, Routing)
       컴퓨팅 (EC2/VM, Security Group)
       데이터베이스 및 스토리지 (RDS/S3)
-      종속성 문제 해결 (실습)
+      종속성 문제 해결 (실습) 
     환경 관리 및 CI/CD 파이프라인 (8시간)
       Workspace를 이용한 환경 분리 (Dev/Prod)
       Terraform Cloud/Backend (원격 State)
