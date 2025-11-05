@@ -24,3 +24,4 @@ mindmap
         GitHub Actions 연동
         Plan-Apply 자동화
       **[심화]** Taint, Import, Destroy
+```
