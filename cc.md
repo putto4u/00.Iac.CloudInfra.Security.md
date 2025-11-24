@@ -1,5 +1,6 @@
+```mermaid
 mindmap
-  root(IaC 기반 클라우드 구축 총 32시간) 
+  root((IaC 기반 클라우드 구축 총 32시간))
     1. IaC 개요 및 기본 (4시간)
       필요성 및 장점
       CM vs Provisioning
@@ -21,5 +22,5 @@ mindmap
       Terraform Cloud Backend (원격 State)
       CI/CD 파이프라인 통합
         GitHub Actions 연동
-        Plan-Apply 자동화 
+        Plan-Apply 자동화
       Taint Import Destroy (심화)
