@@ -10,5 +10,5 @@ IaC-driven Hybrid Cloud Infrastructure and Security Solutions Implementation Cou
 4. 본 수업은 AI를 적극 활용합니다. 마음에 드는 AI(Gemini, Chat GPT, Copilot, Perplexity 등)도 미리 가입해 두세요.
 
 
-AWS : https://aws.amazon.com/ko/ 
+AWS : https://aws.amazon.com/ 
 Github : https://github.com/ 
