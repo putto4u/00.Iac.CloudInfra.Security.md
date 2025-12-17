@@ -14,5 +14,4 @@ AWS : https://aws.amazon.com
 
 Github : https://github.com
 
-Etc.
-Notion : https://www.notion.com/ko
+
